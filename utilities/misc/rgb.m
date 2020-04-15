@@ -58,10 +58,10 @@ all_colors = {
     'Midnight Blue',            [ 26  72 118];
     'Indigo',                   [ 93 118 203];
     'Purple Mountains Magesty', [157 129 186];
-    'Purple',                   [146 110 174];
+    'Purple',                   [140   0 190];
     'Eggplant',                 [110  81  96];
     
-    'Green',            [ 28 172 120];
+    'Green',            [  0 111   0];
     'Shamrock',         [ 69 206 162];
     'Sea Green',        [159 226 191];
     'Turquoise Blue',   [119 221 231];
